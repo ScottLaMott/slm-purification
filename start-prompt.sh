@@ -1,6 +1,6 @@
 #!/usr/bin/zsh
 
-# geht so nicht
+# aufruf # source start-prompt.sh
 
 
 fpath=(/home/slm/ws/git/slm-purification $fpath)
